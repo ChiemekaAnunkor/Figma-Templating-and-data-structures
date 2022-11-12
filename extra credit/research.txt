@@ -1,0 +1,17 @@
+company #1: genpact
+JAVA, AngularJS, Spring Boot, JPA, Web Services (rest)
+Maven or Gradle
+Postgressql, Tomcat
+Spark
+AWS * Design patterns, GIT
+OOP, data structures, algorithms
+Java, Python, C#
+Utilizing Selenium, Cucumber, TestNG, Java, and Git Oracle SQL
+
+company #2: USAA
+Java, Swift, Objective-C, Cobol, JavaScript, Kotlin, C++, HTML, CSS, SQL
+Apache Sling, Apache Felix, Jackrabbit, CRXDE, Java Content Repository API, OSGi 
+Gradle,HTML, CSS (SaSS/LESS), Javascript,API Gitlab, Jest, JAWS, test automation
+
+company #3: Objective-C, Swift and Xcod, git,  Java, Python, C#,Spring or Spring Boot,Postgres, MySQL, Oracle)
+WS (ECS, EKS, DynamoDB, Aurora, SQS, etc),Objective-C,WebSockets,ReactJS,Docker,TeamCity, Jenkin,iOS
